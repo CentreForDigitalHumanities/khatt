@@ -1,7 +1,9 @@
 # KHATT
 [![DOI](https://zenodo.org/badge/189247300.svg)](https://zenodo.org/badge/latestdoi/189247300)
 
-Knowledge Hyperlinking and Text Transcription - this tool was developed by the Research Software Lab of the Centre for Digital Humanities of Utrecht University, in collaboration with Cornelis van Lit.
+Knowledge Hyperlinking and Text Transcription - this tool was developed by the [Research Software Lab](https://cdh.uu.nl/about/research-software-lab/) of the Centre for Digital Humanities of Utrecht University, in collaboration with Cornelis van Lit.
+
+The project is no longer being developed and has been archived.
 
 This draft gives an overview of the intended interface:
 ![KHATT4Interface](https://github.com/UUDigitalHumanitieslab/khatt/assets/11174072/d320648e-ecf5-45db-b77f-a6071f8f3e1e)
